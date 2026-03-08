@@ -1,4 +1,3 @@
-![Python Mastery Banner](assets/banner.png)
 # Python-Mastery
 Learn Python from Basics to Advanced with Examples and Projects
 <p align="center">
