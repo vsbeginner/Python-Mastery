@@ -1,7 +1,8 @@
+#  Python-Mastery
 <p align="center">
   <img src="assets/banner.png" width="900">
 </p>
-## Python-Mastery
+
 Learn Python from Basics to Advanced with Examples and Projects
 
 A structured Python learning repository designed to help learners understand Python from **fundamental concepts to advanced topics** through explanations, examples, exercises, and practical projects.
