@@ -1,11 +1,8 @@
-# Python-Mastery
-Learn Python from Basics to Advanced with Examples and Projects
 <p align="center">
   <img src="assets/banner.png" width="900">
 </p>
-
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
-# Python Mastery: From Basics to Advanced
+# Python-Mastery
+Learn Python from Basics to Advanced with Examples and Projects
 
 A structured Python learning repository designed to help learners understand Python from **fundamental concepts to advanced topics** through explanations, examples, exercises, and practical projects.
 
@@ -116,8 +113,7 @@ You can use this repository in the following ways:
 ---
 
 # Requirements
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-To run the notebooks locally you will need:
+To run the notebooks locally we will need:
 
 * Python 3.x
 * Jupyter Notebook
@@ -130,7 +126,7 @@ This repository is maintained by the author and is intended primarily as a perso
 
 ---
 
-![Author](https://img.shields.io/badge/Author-Vinayak Sharma-orange)
+https://img.shields.io/badge/Author-Vinayak Sharma-orange
 # Author
 
 Created and maintained by **Vinayak Sharma**
@@ -140,7 +136,7 @@ https://github.com/vsbeginner
 
 ---
 
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+https://img.shields.io/badge/License-All%20Rights%20Reserved-red
 # License
 
 Copyright © 2026 Vinayak Sharma
