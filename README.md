@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" width="900">
 </p>
-# Python-Mastery
+## Python-Mastery
 Learn Python from Basics to Advanced with Examples and Projects
 
 A structured Python learning repository designed to help learners understand Python from **fundamental concepts to advanced topics** through explanations, examples, exercises, and practical projects.
@@ -126,7 +126,6 @@ This repository is maintained by the author and is intended primarily as a perso
 
 ---
 
-https://img.shields.io/badge/Author-Vinayak Sharma-orange
 # Author
 
 Created and maintained by **Vinayak Sharma**
@@ -136,7 +135,6 @@ https://github.com/vsbeginner
 
 ---
 
-https://img.shields.io/badge/License-All%20Rights%20Reserved-red
 # License
 
 Copyright © 2026 Vinayak Sharma
