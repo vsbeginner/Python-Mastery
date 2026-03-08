@@ -1,4 +1,5 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+![Python Mastery Banner](assets/banner.png)
 # Python-Mastery
 Learn Python from Basics to Advanced with Examples and Projects
 
